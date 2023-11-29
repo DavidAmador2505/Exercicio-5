@@ -45,7 +45,7 @@ namespace exec_5
         private void button2_Click(object sender, EventArgs e)
         {
             string nome1 = textBox1.Text;
-            string nome2 = textBox2.Text;
+            string nome2 = textBox2.Text; 
 
             textBox3.Text = nome1 + " " + nome2;
         }
